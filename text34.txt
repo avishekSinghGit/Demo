@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A466-5246
+
+ Directory of C:\Users\avisheks\Desktop\Demo
+
+13-01-2021  21:36    <DIR>          .
+13-01-2021  21:36    <DIR>          ..
+13-01-2021  21:21               689 HelloWorld.class
+13-01-2021  21:31               228 HelloWorld.java
+13-01-2021  13:35               385 text1.txt
+13-01-2021  19:50               393 text2.txt
+13-01-2021  21:36                 0 text34.txt
+               5 File(s)          1,695 bytes
+               2 Dir(s)  32,441,110,528 bytes free
