@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A466-5246
+
+ Directory of C:\Users\avisheks\Desktop\Demo1
+
+13-01-2021  13:51    <DIR>          .
+13-01-2021  13:51    <DIR>          ..
+13-01-2021  13:50               385 text1.txt
+13-01-2021  13:51                 0 text2.txt
+               2 File(s)            385 bytes
+               2 Dir(s)  31,960,096,768 bytes free
